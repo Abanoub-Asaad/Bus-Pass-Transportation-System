@@ -7,5 +7,5 @@ Tools: C# - SQL Database - GMaps - MetroFramework (GUI)
 ### ERD :
 ![](Pics/erd.jpg) 
 
-### A Screenshot for The System :
-![](Pics/screen.jpg) 
+
+[![IMAGE ALT TEXT HERE](Pics/screen.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=WyE86eHZao4&t=37s)
