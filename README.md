@@ -1,4 +1,4 @@
-# Bus_Pass_Transportation
+# Bus-Pass-Transportation-System
 Information Systems Course Project
 
 ## Tools : 
